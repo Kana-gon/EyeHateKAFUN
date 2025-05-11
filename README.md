@@ -1,4 +1,4 @@
-##Unity1週間ゲームジャム参加作品「アイ・ヘイト・花粉」
+# Unity1週間ゲームジャム参加作品「アイ・ヘイト・花粉」
 こちらのURLからプレイしていただけます。
 Unityroom 作品ページ ：https://unityroom.com/games/eyehatekafun
 
