@@ -35,5 +35,8 @@ Assets/*
 !Assets/Prefabs/
 !Assets/Scenes/
 !Assets/Sprites/
+.vscode/*
+Packages/*
+ProjectSettings/*
 # Optional: exclude meta files in case of non-critical tracking
 # *.meta
