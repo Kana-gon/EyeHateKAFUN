@@ -1,1 +1,1 @@
-Asset/Scripts,Asset/Scenes,Asset/Prefabs,Asset/Spritesのみを公開しています。
+本リポジトリではAsset/Scripts,Asset/Scenes,Asset/Prefabs,Asset/Spritesのみを公開しています。
