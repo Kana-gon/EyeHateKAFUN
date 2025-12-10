@@ -6,7 +6,9 @@ Eye Hate Kafun
 目になって、涙弾を撃って花粉を蹴散らす見下ろし型シューティングゲームです。
 以下のデモURLからプレイ可能です。
 ## デモURL
-https://unityroom.com/games/eyehatekafun
+ゲームのプレイ(unityroom)：https://unityroom.com/games/eyehatekafun
+
+デモ動画：https://youtu.be/tJiiHhFgZcA
 ## 開発環境
 Unity 2020.3 
 C# / Windows11
